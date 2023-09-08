@@ -1,9 +1,13 @@
 # RobotArmIKExam
 
-## Intro
+<p align="center">
+  <img src="https://github.com/jellypower/PublicImageDataBase/blob/main/Portfolio/Blogs/RobotArm.gif" />
+</p>
 
 ## 프로젝트의 목표
 - IK작동방식과 그 이론을 학습하고 OpenGL을 통해 구현하는 학습용 프로젝트
+
+
 
 ## IK기능은 무엇인가?
 
