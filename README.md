@@ -1,7 +1,7 @@
 # RobotArmIKExam
 
 <p align="center">
-  <img src="https://github.com/jellypower/PublicImageDataBase/blob/main/Portfolio/Blogs/RobotArm.gif" />
+  <img src="https://github.com/jellypower/PublicImageDataBase/blob/main/Portfolio/Blogs/RobotArm.gif" width="300" />
 </p>
 
 ## 프로젝트의 목표
