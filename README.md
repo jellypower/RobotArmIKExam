@@ -17,4 +17,7 @@
 - 위처럼 “위치”기반으로 관절의 “각도”를 구하는 방식을 보통 IK(Inverse Kinematics)라고 부르며 이를 지지하는 기반 이론은 머신러닝과 맞닿아 있습니다.
 
 - 자세한 설명은 아래 링크를 참조해주세요
-    [IK는 내부적으로 어떻게 작동하는가?](https://velog.io/@jellypower/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EA%B3%BC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9DIK%EB%8A%94-%EB%82%B4%EB%B6%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80)
+
+## Link
+
+[IK는 내부적으로 어떻게 작동하는가?](https://velog.io/@jellypower/%EC%BA%90%EB%A6%AD%ED%84%B0-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EA%B3%BC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9DIK%EB%8A%94-%EB%82%B4%EB%B6%80%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80)
